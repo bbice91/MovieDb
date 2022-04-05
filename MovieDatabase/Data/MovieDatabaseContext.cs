@@ -16,4 +16,5 @@ namespace MovieDatabase.Data
 
         public DbSet<MovieDatabase.Models.MovieViewModel> MovieViewModel { get; set; }
     }
+
 }
